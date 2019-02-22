@@ -1,0 +1,47 @@
+c:\users\otoniel.hernandez\documents\visual studio 2017\Projects\Myp-Email\Myp-Email\obj\Debug\Myp_Email.Img.resources
+c:\users\otoniel.hernandez\documents\visual studio 2017\Projects\Myp-Email\Myp-Email\obj\Debug\Myp_Email.Properties.Resources.resources
+c:\users\otoniel.hernandez\documents\visual studio 2017\Projects\Myp-Email\Myp-Email\obj\Debug\Myp-Email.csproj.GenerateResource.Cache
+c:\users\otoniel.hernandez\documents\visual studio 2017\Projects\Myp-Email\Myp-Email\bin\Debug\MySql.Data.dll
+c:\users\otoniel.hernandez\documents\visual studio 2017\Projects\Myp-Email\Myp-Email\obj\Debug\Myp_Email.Form1.resources
+C:\Users\otoniel.hernandez\documents\visual studio 2017\Projects\Myp-Email\Myp-Email\obj\Debug\Myp_Email.Form2.resources
+C:\Users\otoniel.hernandez\documents\visual studio 2017\Projects\Myp-Email\Myp-Email\obj\Debug\Myp_Email.Form3.resources
+C:\Users\otoniel.hernandez\documents\visual studio 2017\Projects\Myp-Email\Myp-Email\bin\Debug\MetroFramework.Design.dll
+C:\Users\otoniel.hernandez\documents\visual studio 2017\Projects\Myp-Email\Myp-Email\bin\Debug\MetroFramework.dll
+C:\Users\otoniel.hernandez\documents\visual studio 2017\Projects\Myp-Email\Myp-Email\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\otoniel.hernandez\documents\visual studio 2017\Projects\Myp-Email\Myp-Email\obj\Debug\Myp-Email.csprojResolveAssemblyReference.cache
+C:\Users\otoniel.hernandez\documents\visual studio 2017\Projects\Myp-Email\Myp-Email\bin\Debug\Myp-Email 1.6.3.exe.config
+C:\Users\otoniel.hernandez\documents\visual studio 2017\Projects\Myp-Email\Myp-Email\bin\Debug\Myp-Email 1.6.3.exe.manifest
+C:\Users\otoniel.hernandez\documents\visual studio 2017\Projects\Myp-Email\Myp-Email\bin\Debug\Myp-Email 1.6.3.application
+C:\Users\otoniel.hernandez\documents\visual studio 2017\Projects\Myp-Email\Myp-Email\bin\Debug\Myp-Email 1.6.3.exe
+C:\Users\otoniel.hernandez\documents\visual studio 2017\Projects\Myp-Email\Myp-Email\bin\Debug\Myp-Email 1.6.3.pdb
+C:\Users\otoniel.hernandez\documents\visual studio 2017\Projects\Myp-Email\Myp-Email\obj\Debug\Myp-Email 1.6.3.exe.licenses
+C:\Users\otoniel.hernandez\documents\visual studio 2017\Projects\Myp-Email\Myp-Email\obj\Debug\Myp-Email 1.6.3.exe.manifest
+C:\Users\otoniel.hernandez\documents\visual studio 2017\Projects\Myp-Email\Myp-Email\obj\Debug\Myp-Email 1.6.3.application
+C:\Users\otoniel.hernandez\documents\visual studio 2017\Projects\Myp-Email\Myp-Email\obj\Debug\Myp-Email 1.6.3.exe
+C:\Users\otoniel.hernandez\documents\visual studio 2017\Projects\Myp-Email\Myp-Email\obj\Debug\Myp-Email 1.6.3.pdb
+C:\Users\otoniel.hernandez\documents\visual studio 2017\Projects\Myp-Email\Myp-Email\obj\Debug\Myp_Email.frmMain.resources
+E:\sistemas\Proyectos\Myp-email\Myp-Email-master\Myp-Email\bin\Debug\MetroFramework.Design.dll
+E:\sistemas\Proyectos\Myp-email\Myp-Email-master\Myp-Email\bin\Debug\MetroFramework.dll
+E:\sistemas\Proyectos\Myp-email\Myp-Email-master\Myp-Email\bin\Debug\MetroFramework.Fonts.dll
+E:\sistemas\Proyectos\Myp-email\Myp-Email-master\Myp-Email\bin\Debug\MySql.Data.dll
+E:\sistemas\Proyectos\Myp-email\Myp-Email-master\Myp-Email\obj\Debug\Myp-Email.csprojAssemblyReference.cache
+E:\sistemas\Proyectos\Myp-email\Myp-Email-master\Myp-Email\obj\Debug\Myp_Email.Form1.resources
+E:\sistemas\Proyectos\Myp-email\Myp-Email-master\Myp-Email\obj\Debug\Myp_Email.Form3.resources
+E:\sistemas\Proyectos\Myp-email\Myp-Email-master\Myp-Email\obj\Debug\Myp_Email.frmMain.resources
+E:\sistemas\Proyectos\Myp-email\Myp-Email-master\Myp-Email\obj\Debug\Myp_Email.Img.resources
+E:\sistemas\Proyectos\Myp-email\Myp-Email-master\Myp-Email\obj\Debug\Myp_Email.Form2.resources
+E:\sistemas\Proyectos\Myp-email\Myp-Email-master\Myp-Email\obj\Debug\Myp_Email.Properties.Resources.resources
+E:\sistemas\Proyectos\Myp-email\Myp-Email-master\Myp-Email\obj\Debug\Myp-Email.csproj.GenerateResource.cache
+E:\sistemas\Proyectos\Myp-email\Myp-Email-master\Myp-Email\obj\Debug\Myp-Email.csproj.CoreCompileInputs.cache
+E:\sistemas\Proyectos\Myp-email\Myp-Email-master\Myp-Email\obj\Debug\Myp-Email.csproj.CopyComplete
+E:\sistemas\Proyectos\Myp-email\Myp-Email-master\Myp-Email\obj\Debug\Myp_Email.Form4.resources
+E:\sistemas\Proyectos\Myp-email\Myp-Email-master\Myp-Email\bin\Debug\Myp-Email 1.6.4.exe.config
+E:\sistemas\Proyectos\Myp-email\Myp-Email-master\Myp-Email\bin\Debug\Myp-Email 1.6.4.exe.manifest
+E:\sistemas\Proyectos\Myp-email\Myp-Email-master\Myp-Email\bin\Debug\Myp-Email 1.6.4.application
+E:\sistemas\Proyectos\Myp-email\Myp-Email-master\Myp-Email\bin\Debug\Myp-Email 1.6.4.exe
+E:\sistemas\Proyectos\Myp-email\Myp-Email-master\Myp-Email\bin\Debug\Myp-Email 1.6.4.pdb
+E:\sistemas\Proyectos\Myp-email\Myp-Email-master\Myp-Email\obj\Debug\Myp-Email 1.6.4.exe.licenses
+E:\sistemas\Proyectos\Myp-email\Myp-Email-master\Myp-Email\obj\Debug\Myp-Email 1.6.4.exe.manifest
+E:\sistemas\Proyectos\Myp-email\Myp-Email-master\Myp-Email\obj\Debug\Myp-Email 1.6.4.application
+E:\sistemas\Proyectos\Myp-email\Myp-Email-master\Myp-Email\obj\Debug\Myp-Email 1.6.4.exe
+E:\sistemas\Proyectos\Myp-email\Myp-Email-master\Myp-Email\obj\Debug\Myp-Email 1.6.4.pdb
